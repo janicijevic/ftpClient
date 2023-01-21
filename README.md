@@ -13,5 +13,5 @@ Currently only connects to a hardcoded server (local filezilla server) through s
 
 ## TODO
 
-[ ] Implement file transfer
-[ ] Make Bash-like interface for issuing commands with support for tab and arrow key history
+- [ ] Implement file transfer
+- [ ] Make Bash-like interface for issuing commands with support for tab and arrow key history
